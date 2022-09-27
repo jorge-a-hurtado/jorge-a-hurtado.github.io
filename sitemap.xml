@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/blog/three-steps-to-becoming-a-boss/</loc>
+    <loc>https://jorge-a-hurtado.github.io/blog/three-steps-to-becoming-a-boss/</loc>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://jorge-a-hurtado.github.io/about/</loc>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://jorge-a-hurtado.github.io/blog/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://jorge-a-hurtado.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/cv/</loc>
+    <loc>https://jorge-a-hurtado.github.io/cv/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://jorge-a-hurtado.github.io/</loc>
   </url><url>
-    <loc>http://example.org/projects/</loc>
+    <loc>https://jorge-a-hurtado.github.io/projects/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://jorge-a-hurtado.github.io/tags/</loc>
   </url>
 </urlset>
